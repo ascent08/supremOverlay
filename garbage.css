@@ -1,0 +1,76 @@
+svg text{
+    text-anchor: middle;
+    dominant-baseline: middle;
+    font-family: "Oswald";
+}
+svg rect{
+    fill-opacity: 1;
+    stroke: #000000;
+    stroke-width: 5;
+    stroke-dasharray: none
+    stroke-opacity: 1
+}
+svg path{
+    fill-opacity: 1;
+    stroke: #000000;
+    stroke-width: 5;
+    stroke-dasharray: none
+    stroke-opacity: 1
+}
+#roundTypeText {
+    font-size: 44px;
+}
+#prevGameText {
+    font-size: 40px;
+}
+#nextGameText {
+    font-size: 40px;
+}
+#p1Name {
+    font-size: 36px;
+}
+#p2Name {
+    font-size: 36px;
+}
+#p2S1 {
+    font-size: 36px;
+}
+#p2S2 {
+    font-size: 36px;
+}
+#p2S3 {
+    font-size: 36px;
+}
+#p1S1 {
+    font-size: 36px;
+}
+#p1S2 {
+    font-size: 36px;
+}
+#p1S3 {
+    font-size: 36px;
+}
+#prevGame1Result {
+    font-size: 28px;
+}
+#prevGame1Score {
+    font-size: 28px;
+}
+#prevGame2Result {
+    font-size: 28px;
+}
+#prevGame2Score {
+    font-size: 28px;
+}
+#nextGame1 {
+    font-size: 28px;
+}
+#nextGame2 {
+    font-size: 28px;
+}
+#nextGame3 {
+    font-size: 28px;
+}
+#nextGame4 {
+    font-size: 28px;
+}
