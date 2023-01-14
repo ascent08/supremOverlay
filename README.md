@@ -2,7 +2,7 @@ The contents of this repository only really apply to this one usecase (hosting s
 The underlying code is janky and could probably be better, but for a first project using JS I don't think it's too bad.
 
 To use this, you will need to append the following to the URL:
-`?theme=<theme>&?key=<key>`
+`?theme=<theme>&key=<key>`
 
 `<theme>` should be one of the following:
 - amethyst (purple)
